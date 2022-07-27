@@ -7,12 +7,12 @@
 			<table>
 				<tr>
 					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=stageName&amp;order=Asc">Sort Ascending</a></td>
-					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=birthDate&amp;order=Asc">Sort Ascending</a></td>
+					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=birthDate&amp;order=Desc">Sort Ascending</a></td>
 					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=numSongs&amp;order=Asc">Sort Ascending</a></td>
 				</tr>
 				<tr>
 					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=stageName&amp;order=Desc">Sort Descending</a></td>
-					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=birthDate&amp;order=Desc">Sort Descending</a></td>
+					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=birthDate&amp;order=Asc">Sort Descending</a></td>
 					<td class="sort_td"><a href="?action=change_sort&amp;page=all_artists&amp;sort=numSongs&amp;order=Desc">Sort Descending</a></td>
 				</tr>
 				<tr>
