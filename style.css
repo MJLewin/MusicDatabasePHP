@@ -1,0 +1,106 @@
+html {
+	background-color: #3D9970;
+	margin: auto 2em;
+}
+header {
+	text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    margin: 20px 250px;
+    padding: 0 2em;
+    background-color: #DDDDDD;
+    border: 1px solid black;
+	border-radius: 25px;
+}
+main {
+    margin: 25px 50px;
+}
+h1 {
+    color: navy;
+    padding: 0;
+    margin: 1em .5em .5em .5em;
+}
+h2 {
+	margin: 1em .5em .5em .5em;
+}
+table {
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	min-width: 400px;
+}
+tr:nth-of-type(even) {
+	background-color: #d0d0d0;
+}
+th, td {
+	border: 1px solid black;
+	padding: 6px 6px;
+}
+a {
+	
+}
+p {
+    margin: .5em 0;
+}
+fieldset {
+    margin: 0;
+    margin-bottom: .5em;
+    padding-left: 1em;
+}
+label {
+    width: 10em;
+    float: left;
+    margin-right: 1em;
+    text-align: right;
+    margin-bottom: .2em;
+}
+input {
+    float: left;
+}
+br {
+    clear: both;
+    margin-bottom: .2em;
+}
+.welcome_div {
+	text-align: center;
+}
+.welcome_h1 {
+	margin: 1.5em auto;
+	font-family: sans-serif;
+	font-size: 5em;
+}
+.welcome_p {
+	margin-bottom: 2em;
+}
+.header_table {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header_tr {
+	border: none;
+}
+.header_td {
+	border: none;
+}
+.sort_tr {
+	border: none;
+}
+.sort_td {
+	background-color: #dddddd;
+	border: none;
+	text-align: right;
+	padding-right: 2px;
+}
+.delete_td {
+	border: none;
+	background-color: #dddddd;
+}
+.submit_td {
+	border: none;
+	background-color: #dddddd;
+}
+.copyright {
+	text-align: center;
+}
