@@ -1,8 +1,15 @@
 <?php
 class Database {
-    private static $dsn = 'mysql:host=localhost;dbname=music_database';
-    private static $username = 'root';
-    private static $password = 'sesame';
+    //Development connection
+    //private static $dsn = 'mysql:host=localhost;dbname=music_database';
+    //private static $username = 'root';
+    //private static $password = 'sesame';
+    //private static $db;
+    
+    //Remote Database Connection
+    private static $dsn = 'mysql:host=remotemysql.com;dbname=UkK8JbXPP9';
+    private static $username = 'UkK8JbXPP9';
+    private static $password = 'u9dpbBRT5b';
     private static $db;
 
     private function __construct() {}
